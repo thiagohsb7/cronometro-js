@@ -1,0 +1,55 @@
+* {
+  background-color: rgb(51, 46, 46);
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 3.7rem;
+  margin: 3rem;
+  font-weight: 700;
+  font-style: italic;
+}
+
+button {
+  height: 2.2rem;
+  width: 5.5rem;
+  border: none;
+  border-radius: 0.8rem;
+  color: white;
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.btnStart {
+  background-color: green;
+  color: white;
+  font-weight: 700;
+}
+
+.btnStart:hover {
+  background-color: rgb(55, 209, 68);
+}
+
+.btnPause {
+  background-color: rgb(203, 206, 21);
+  color: white;
+  font-weight: 700;
+}
+
+.btnPause:hover {
+  background-color: rgb(176, 228, 79);
+}
+.btnStop {
+  background-color: red;
+  color: white;
+  font-weight: 700;
+}
+
+.btnStop:hover {
+  background-color: rgb(212, 66, 47);
+}
